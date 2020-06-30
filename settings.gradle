@@ -1,0 +1,4 @@
+include ':listviewwidget'
+include ':calendarwidget'
+include ':app'
+rootProject.name = "AndroidWidgetTest"

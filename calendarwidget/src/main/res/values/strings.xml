@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalendarWidget</string>
+    <string name="hour">hour</string>
+    <string name="semicolon">:</string>
+    <string name="minute">minute</string>
+    <string name="week">week</string>
+    <string name="date">date</string>
+</resources>
